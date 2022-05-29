@@ -1,5 +1,4 @@
 //Nueva version 
-//Grupo 5
 
 /*
 Has buscado alguna vez un hotel en
